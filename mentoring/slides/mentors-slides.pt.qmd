@@ -58,135 +58,92 @@ O que não funcionou?
 Pense em um problema sobre o qual você gostaria de receber orientação neste momento.
 :::
 
-
 ## O que os mentores fazem?
 
-:::: 
- {.columns}
-   ::: 
-   {.column width="30%"} 
-   
- 
-   <img src="images/ilustracion-mentores.png" alt="Mulheres com uma rede de borboletas usando um lenço na cabeça">
-   :::
-   ::: 
-   {.column width="68%"} 
-   
- 
-   As pessoas que atuam como mentores 
- **     orientam**    e **     inspiram**   .
+:::: {.columns}
+::: {.column width="30%"}
+<img src="images/ilustracion-mentores.png" alt="Uma mulher com uma rede de borboletas usando um lenço na cabeça">
+:::
+::: {.column width="68%"}
+As pessoas que atuam como mentoras **orientam** e **inspiram**.
 
-- **Recomendar**        recursos, leituras, treinamento, experiências
-- **Dar feedback**        a ser levado em consideração
-- **Conectar**        com pessoas, programas e organizações
-         :::
-         ::::
+- **Recomendar** recursos, leituras, treinamento, experiências
+- **Dar feedback** a ser levado em consideração
+- **Conectar** com pessoas, programas e organizações
+:::
+::::
 
 ## Habilidades de mentoria
 
 Resumo das habilidades que veremos hoje
 
-:::: 
- {.columns}
-   ::: 
-   {.column width="30%"} 
-   
- 
-   <img src="images/ilustracion-escucha.png" alt="Um homem acenando com um binóculo na mão.">
-   :::
-   ::: 
-   {.column width="68%" style="text-align:center; font-size:1.3em; margin-top:1.5em;"} 
-   
- 
-   Escuta ativa  
-   Perguntas eficazes  
-   Dar feedback
-   :::
-   ::::
+:::: {.columns}
+::: {.column width="30%"}
+<img src="images/ilustracion-escucha.png" alt="Um homem acenando com um binóculo na mão.">
+:::
+::: {.column width="68%" style="text-align:center; font-size:1.3em; margin-top:1.5em;"}
+Escuta ativa\
+Perguntas eficazes\
+Dar feedback
+:::
+::::
 
 ## Escuta ativa
 
-:::: 
- {.columns}
-   ::: 
-   {.column width="30%"} 
-   
- 
-   <img src="images/ilustracion-escucha.png" alt="Um homem acenando com uma luneta na mão.">
-   :::
-   ::: 
-   {.column width="68%"} 
-    
- 
-
+:::: {.columns}
+::: {.column width="30%"}
+<img src="images/ilustracion-escucha.png" alt="Um homem acenando com uma luneta na mão.">
+:::
+::: {.column width="68%"}
 - Pare de julgar e ouça.
 - Dedique toda a sua atenção a quem está falando (não fique pensando no que vai dizer ou responder).
 - Incentive quem está falando com sinais verbais e não verbais.
-         :::
-         ::::
+:::
+::::
 
-::: 
- {.notes}
-   O que é a escuta ativa?
-   Como funciona a escuta ativa?
+::: {.notes}
+O que é a escuta ativa?
+Como funciona a escuta ativa?
 Escuta ativa: as pessoas fazem perguntas boas e perspicazes. Você pode repetir o que elas disseram.
-   :::
+:::
 
 ## Perguntas eficazes
 
-:::: 
- {.columns}
-   ::: 
-   {.column width="30%"} 
-   
- 
-   <img src="images/ilustracion-escucha.png" alt="Um homem acenando com uma luneta na mão.">
-   :::
-   ::: 
-   {.column width="68%"} 
-    
- 
-
+:::: {.columns}
+::: {.column width="30%"}
+<img src="images/ilustracion-escucha.png" alt="Um homem acenando com uma luneta na mão.">
+:::
+::: {.column width="68%"}
 - Acessar informações e analisá-las
 - Estimular o pensamento e a criatividade
 - Aprender por meio do debate
-         :::
-         ::::
+:::
+::::
 
-::: 
- {.notes}
-   Por que as perguntas são importantes na orientação?
+::: {.notes}
+Por que as perguntas são importantes na orientação?
 
 As perguntas nos permitem: ajudar a esclarecer a compreensão, fornecer uma estrutura para a discussão e estimular a criatividade.
-   :::
+:::
 
 ## Dar feedback
 
-:::: 
- {.columns}
-   ::: 
-   {.column width="44%"} 
-   
- 
-   <img src="images/ilustracion-feedback-comic.png" alt="Como dar feedback (história em quadrinhos)">
-   :::
-   ::: 
-   {.column width="54%"} 
-    
- 
-
+:::: {.columns}
+::: {.column width="44%"}
+<img src="images/ilustracion-feedback-comic.png" alt="Como dar feedback (história em quadrinhos)">
+:::
+::: {.column width="54%"}
 - Tente ser útil
 - Vá direto ao ponto. Concentre-se em comportamentos observáveis
 - Fale por você mesmo
 - Equilibre elogios e críticas
-         :::
-         ::::
+:::
+::::
 
-::: 
-   {.notes}
-   O feedback pode ser uma forma de dar conselhos. Ele também permite que todos cresçam.
-   O que acontece se dermos apenas feedback positivo? E se dermos apenas feedback negativo?
-   :::
+::: {.notes}
+O feedback pode ser uma forma de dar conselhos. Ele também permite que todos cresçam.
+O que acontece se dermos apenas feedback positivo? E se dermos apenas feedback negativo?
+:::
 
 ## Ferramentas - Reuniões
 
