@@ -147,183 +147,127 @@ O que acontece se dermos apenas feedback positivo? E se dermos apenas feedback n
 
 ## Ferramentas - Reuniões
 
-:::: 
- {.columns}
-   ::: 
-   {.column width="30%"} 
-   
- 
-   <img src="images/ilustracion-herramientas.png" alt="Um homem com um laptop e um cachorro sentado ao seu lado">
-   :::
-   ::: 
-   {.column width="68%"} 
-    
- 
-
+:::: {.columns}
+::: {.column width="30%"}
+<img src="images/ilustracion-herramientas.png" alt="Um homem com um laptop e um cachorro sentado ao seu lado">
+:::
+::: {.column width="68%"}
 - Definir expectativas
   - Quais são os objetivos do programa para ambas as pessoas?
 - Ferramentas para explorar e refletir
 - Modelo GROW (crescer)
-         :::
-         ::::
+:::
+::::
 
-::: 
- {.notes}
-   Tema proposto para a primeira reunião (modelo)
+::: {.notes}
+Tema proposto para a primeira reunião (modelo)
 Tema proposto para a última reunião (modelo)
-   Exemplos por projeto para as demais reuniões (modelo)
-   :::
+Exemplos por projeto para as demais reuniões (modelo)
+:::
 
 ## Modelo GROW
 
 <img src="images/ilustracion-herramientas.png" alt="Um homem com um laptop e um cachorro sentado ao seu lado" style="width:13%; float:right; margin:0 0 0.5em 0.8em;">
 
-- **Goal (objetivo):**        Acordar um tema e um objetivo ou metas de longo prazo
-- **Realidade (Reality):**        autoavaliação, exemplos concretos
-- **Opções:**        sugestões oferecidas e opções escolhidas
-- **Caminho a seguir:**        próximos passos
+- **Goal (objetivo):** Acordar um tema e um objetivo ou metas de longo prazo
+- **Reality (realidade):** autoavaliação, exemplos concretos
+- **Options (opções):** sugestões oferecidas e opções escolhidas
+- **Way forward (caminho a seguir):** próximos passos
 
 ## Modelo GROW
 
-:::: 
- {.columns style="font-size:0.62em;"}
-   ::: 
- {.column width="49%"} 
- 
-**     GOAL - OBJETIVO**
+:::: {.columns style="font-size:0.62em;"}
+::: {.column width="49%"}
+**GOAL - OBJETIVO**
 
 - O que você quer alcançar?
 - O que acontecerá quando você tiver alcançado isso?
 - Os OBJETIVOS podem ser SMART (Específicos, Mensuráveis, Alcançáveis, Realistas, com Prazo Definido).
 
-**REALIDADE**
+**REALITY - REALIDADE**
 
 - O que está acontecendo neste momento?
-
 - O que está impedindo você de seguir em frente?
-
 - O que você já tentou?
-
 - O que aconteceu?
-
 - O que você aprendeu?
-         :::
-         ::: 
- {.column width="49%"} 
- 
-  **         OPTIONS - OPÇÕES**
+:::
+::: {.column width="49%"}
+**OPTIONS - OPÇÕES**
 
 - O que você poderia fazer? O que mais?
-
 - Quais são as vantagens/desvantagens de cada opção?
-
 - Quer que eu te dê algumas sugestões?
-
 - Quais opções você mais gosta?
 
-**WAY FORWARD - COMO SEGUIR**
+**WAY FORWARD - CAMINHO A SEGUIR**
 
 - O que você vai fazer?
 - Qual será o primeiro passo?
 - Quando você vai começar e terminar cada etapa?
 - De que apoio você precisa e de quem?
-         :::
-         ::::
-
-## Modelo GROW 
-   {background-color="#447BCD"}
-   
- 
-
-:::: 
- {.columns}
-   ::: 
- {.column width="58%"}
-**     Duração:**    ~10 minutos
-
-- Vocês vão trabalhar em grupos.
-- Assistam ao vídeo cujo link está no documento compartilhado, que mostra um exemplo de uso do modelo GROW. Identifiquem no vídeo as etapas do modelo.
-         :::
-         ::: 
-       {.column width="35%"} 
-        
-     
-
-<img src="images/ilustracion-mentoria-reflexion.png" alt="Uma pessoa segura um gato em seu escritório">
 :::
 ::::
 
-## Modelo GROW 
-   {background-color="#447BCD"}
-   
- 
+## Modelo GROW {background-color="#447BCD"}
 
-:::: 
- {.columns}
-   ::: 
- {.column width="58%"}
-**     Duração:**    ~10 minutos
+:::: {.columns}
+::: {.column width="58%"}
+**Duração:** ~10 minutos
 
 - Vocês vão trabalhar em grupos.
-- Pratiquem o modelo GROW. Um de vocês será o mentor, e o outro, o “campeão”. Usem o tema sobre o qual vocês disseram precisar de ajuda na primeira pergunta.
-         :::
-         ::: 
-       {.column width="35%"} 
-        
-     
+- Assistam ao vídeo cujo link está no documento compartilhado, que mostra um exemplo de uso do modelo GROW. Identifiquem no vídeo as etapas do modelo.
+:::
+::: {.column width="35%"}
+<img src="images/ilustracion-mentoria-reflexion.png" alt="Uma mulher segura um gato em seu escritório">
+:::
+::::
 
-<img src="images/ilustracion-mentoria-reflexion.png" alt="Uma pessoa segura um gato em seu escritório">
+## Modelo GROW {background-color="#447BCD"}
+
+:::: {.columns}
+::: {.column width="58%"}
+**Duração:** ~10 minutos
+
+- Vocês vão trabalhar em grupos.
+- Pratiquem o modelo GROW. Uma pessoa vai fazer o papel de mentor ou mentora, e o outra, o de campeã ou campeão. Usem o tema sobre o qual vocês disseram precisar de ajuda na primeira pergunta.
+:::
+::: {.column width="35%"}
+<img src="images/ilustracion-mentoria-reflexion.png" alt="Uma mulher segura um gato em seu escritório">
 :::
 ::::
 
 ## Dicas para o modelo GROW
 
-:::: 
- {.columns}
-   ::: 
-   {.column width="30%"} 
-   
- 
-   <img src="images/ilustracion-herramientas.png" alt="Um homem com um laptop e um cachorro sentado ao seu lado">
-   :::
-   ::: 
-   {.column width="68%"} 
-    
- 
-
+:::: {.columns}
+::: {.column width="30%"}
+<img src="images/ilustracion-herramientas.png" alt="Um homem com um laptop e um cachorro sentado ao seu lado">
+:::
+::: {.column width="68%"}
 - 'Perguntar' em vez de 'contar'
 - Explicar e verificar a compreensão
-- Mesmo sendo o especialista, você atua como facilitador(a).
-         :::
-         ::::
+- Mesmo sendo especialista, você atua como facilitador(a).
+:::
+::::
 
-## Dicas de mentores anteriores
+## Dicas de mentores e mentoras anteriores
 
-::: 
-   {style="font-size:0.75em;"} 
-    
- 
-
+::: {style="font-size:0.75em;"}
 - *Deixe seu aprendiz falar mais do que você e, acima de tudo, incentive-o na direção necessária.*
 - *Provavelmente tentaria aproveitar mais os chats assíncronos do Slack. Encontrar momentos para nos reunirmos e ter uma conexão com a Internet boa o suficiente para fazer videoconferências foi um verdadeiro desafio.*
 - *Conversar mais com os outros mentores.*
 - *Promova um contato regular com seu mentorado. Converse com frequência e sobre outros assuntos além do programa.*
-         :::
+:::
 
 ## Dicas de mentores anteriores
 
-::: 
-   {style="font-size:0.62em;"} 
-    
- 
-
+::: {style="font-size:0.62em;"}
 - *Eu recomendaria aos mentores que participassem do maior número possível de sessões de treinamento e de coworking. Se possível, conhecer seu mentorado pessoalmente também pode ser extremamente benéfico para construir um relacionamento melhor.*
 - *Use o documento do calendário mensal*
 - *Não se preocupe em saber o suficiente; há recursos disponíveis sobre todos os aspectos da mentoria nos quais você pode confiar.*
 - *Mantenha um relacionamento enriquecedor com seu mentorado, tanto do ponto de vista técnico quanto não técnico.*
 - *O conhecimento técnico é importante, mas muitas vezes é menos importante do que dedicar tempo para compreender de verdade o projeto e os objetivos do seu mentorado. Concentre-se em apoiar o sucesso dele, ouvindo com atenção e ajudando-o a encontrar o melhor caminho a seguir.*
-   
-        :::
+:::
 
 ## Ferramentas
 
