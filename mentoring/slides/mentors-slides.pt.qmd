@@ -46,7 +46,7 @@ Peça permissão para gravar a reunião
 - Use o documento compartilhado para responder às perguntas que aparecem ao lado do seu nome.
 :::
 ::: {.column width="35%"}
-<img src="images/ilustracion-mentoria-reflexion.png" alt="Uma pessoa segura um gato em seu escritório">
+<img src="images/ilustracion-mentoria-reflexion.png" alt="Uma mulher segura um gato em seu escritório">
 :::
 ::::
 
@@ -92,7 +92,7 @@ Dar feedback
 
 :::: {.columns}
 ::: {.column width="30%"}
-<img src="images/ilustracion-escucha.png" alt="Um homem acenando com uma luneta na mão.">
+<img src="images/ilustracion-escucha.png" alt="Um homem acenando com um binóculo na mão.">
 :::
 ::: {.column width="68%"}
 - Pare de julgar e ouça.
@@ -111,7 +111,7 @@ Escuta ativa: as pessoas fazem perguntas boas e perspicazes. Você pode repetir 
 
 :::: {.columns}
 ::: {.column width="30%"}
-<img src="images/ilustracion-escucha.png" alt="Um homem acenando com uma luneta na mão.">
+<img src="images/ilustracion-escucha.png" alt="Um homem acenando com um binóculo na mão.">
 :::
 ::: {.column width="68%"}
 - Acessar informações e analisá-las
@@ -273,7 +273,7 @@ Exemplos por projeto para as demais reuniões (modelo)
 
 :::: {.columns}
 ::: {.column width="30%"}
-<img src="images/ilustracion-mentores.png" alt="Uma mulher com uma rede de borboletas, uma delas usando um lenço na cabeça">
+<img src="images/ilustracion-mentores.png" alt="Uma mulher com uma rede de borboletas usando um lenço na cabeça">
 :::
 ::: {.column width="65%"}
 ### [Guia para Mentoras e Mentores](https://ropensci-org.github.io/champions-mentor-guidelines/)
