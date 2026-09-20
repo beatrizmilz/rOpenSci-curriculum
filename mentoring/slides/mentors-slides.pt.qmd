@@ -259,7 +259,7 @@ Exemplos por projeto para as demais reuniões (modelo)
 - *Promova um contato regular com seu mentorado. Converse com frequência e sobre outros assuntos além do programa.*
 :::
 
-## Dicas de mentores anteriores
+## Dicas de mentores e mentoras anteriores
 
 ::: {style="font-size:0.62em;"}
 - *Eu recomendaria aos mentores que participassem do maior número possível de sessões de treinamento e de coworking. Se possível, conhecer seu mentorado pessoalmente também pode ser extremamente benéfico para construir um relacionamento melhor.*
@@ -271,76 +271,48 @@ Exemplos por projeto para as demais reuniões (modelo)
 
 ## Ferramentas
 
-:::: 
- {.columns}
-   ::: 
-   {.column width="30%"} 
-   
- 
-   <img src="images/ilustracion-mentores.png" alt="Mulheres com uma rede de borboletas, uma delas usando um lenço na cabeça">
-   :::
-   ::: 
-   {.column width="65%"} 
-    
- 
-
-### [Guia para Mentores](https://ropensci-org.github.io/champions-mentor-guidelines/)
+:::: {.columns}
+::: {.column width="30%"}
+<img src="images/ilustracion-mentores.png" alt="Uma mulher com uma rede de borboletas, uma delas usando um lenço na cabeça">
+:::
+::: {.column width="65%"}
+### [Guia para Mentoras e Mentores](https://ropensci-org.github.io/champions-mentor-guidelines/)
 
 - [Modelo de reuniões](https://docs.google.com/document/d/1VtNYfDNYRS7xAbs1Ajf2S5wsv3mOQ0BcTn93cXAv6sc/)
 - [Calendário mensal](https://docs.google.com/document/d/14Q-8sJTtKyGIZTGSIP13iWKyHmCzAyJo_BiDlwj15s8/)
 - [Calendário compartilhado](https://calendar.google.com/calendar/embed?src=c_73ae7d17e0d4742c6c3f3ee4f852938ceb6e76a85d98e18e4f92098f690217b5%40group.calendar.google.com&ctz=America%2FArgentina%2FCordoba)
 - [Relatório de reuniões](https://airtable.com/appF6OXmxkk8VmR8a/shrV3SruqtGwe1Bdj)
-- [Código de Conduta](https://ropensci.org/es/c%C3%B3digo-de-conducta/)
+- [Código de Conduta](https://ropensci.org/pt/c%C3%B3digo-de-conduta/)
 - Canais no Slack
 - [Google Drive](https://drive.google.com/drive/folders/1W_qXERn2-i-aLqb-Lb9wJFvFYdGLgH4v)
-         :::
-         ::::
-
-## Perguntas e respostas 
-   {background-color="#447BCD"}
-   
- 
-
-:::: 
- {.columns}
-   ::: 
- {.column width="58%"}
-**     Duração:**    ~10 minutos
-
-No documento compartilhado, ao lado do seu nome, responda a
-
-**Você se sente preparado(a) para ser mentor(a)?**
-   :::
-   ::: 
-   {.column width="35%"} 
-   
- 
-   <img src="images/ilustracion-mentoria-reflexion.png" alt="Uma pessoa segura um gato em seu escritório">
-   :::
-   ::::
-
-## Feedback sobre este workshop 
-   {background-color="#447BCD"}
-   
- 
-
-:::: 
- {.columns}
-   ::: 
- {.column width="58%"} 
- 
-**     Duração:**    ~5 minutos
-
-- Vamos praticar como dar nossa opinião: responda à nossa pesquisa anônima sobre este workshop.
-- Ajude-nos a melhorá-lo.
-         :::
-         ::: 
-       {.column width="35%"} 
-        
-     
-
-<img src="images/ilustracion-mentoria-reflexion.png" alt="Uma pessoa segura um gato em seu escritório">
 :::
 ::::
 
+## Perguntas e respostas {background-color="#447BCD"}
 
+:::: {.columns}
+::: {.column width="58%"}
+**Duração:** ~10 minutos
+
+No documento compartilhado, ao lado do seu nome, responda:
+
+**Você se sente preparado(a) para ser mentor(a)?**
+:::
+::: {.column width="35%"}
+<img src="images/ilustracion-mentoria-reflexion.png" alt="Uma mulher segura um gato em seu escritório">
+:::
+::::
+
+## Feedback sobre este workshop {background-color="#447BCD"}
+
+:::: {.columns}
+::: {.column width="58%"}
+**Duração:** ~5 minutos
+
+- Vamos praticar como dar nossa opinião: responda à nossa pesquisa anônima sobre este workshop.
+- Ajude-nos a melhorá-lo.
+:::
+::: {.column width="35%"}
+<img src="images/ilustracion-mentoria-reflexion.png" alt="Uma mulher segura um gato em seu escritório">
+:::
+::::
