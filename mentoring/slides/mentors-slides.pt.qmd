@@ -58,7 +58,7 @@ O que não funcionou?
 Pense em um problema sobre o qual você gostaria de receber orientação neste momento.
 :::
 
-## O que faz quem atua como mentoria?
+## O que fazem as/os mentores?
 
 :::: {.columns}
 ::: {.column width="30%"}
@@ -134,7 +134,7 @@ As perguntas nos permitem: ajudar a esclarecer a compreensão, fornecer uma estr
 :::
 ::: {.column width="54%"}
 - Tente ser útil
-- Vá direto ao ponto. Concentre-se em comportamentos observáveis
+- Seja específico. Concentre-se em comportamentos observáveis
 - Fale por si
 - Equilibre elogios e críticas
 :::
@@ -262,7 +262,7 @@ Exemplos por projeto para as demais reuniões (modelo)
 ## Dicas de mentores e mentoras anteriores
 
 ::: {style="font-size:0.62em;"}
-- *Eu recomendaria aos mentores que participassem do maior número possível de sessões de treinamento e de coworking. Se possível, conhecer seu mentorado pessoalmente também pode ser extremamente benéfico para construir um relacionamento melhor.*
+- *Eu recomendaria a quem faz mentoria que participassem do maior número possível de sessões de treinamento e de coworking. Se possível, conhecer pessoalmente quem você mentora também pode ser extremamente benéfico para construir um relacionamento melhor.*
 - *Use o documento do calendário mensal*
 - *Não se preocupe em saber o suficiente; há recursos disponíveis sobre todos os aspectos da mentoria nos quais você pode confiar.*
 - *Mantenha um relacionamento enriquecedor com quem você mentora, tanto do ponto de vista técnico quanto não técnico.*
@@ -296,7 +296,7 @@ Exemplos por projeto para as demais reuniões (modelo)
 
 No documento compartilhado, ao lado do seu nome, responda:
 
-**Você se sente preparado(a) para ser mentor(a)?**
+**Você se sente preparada ou preparado para fazer mentoria?**
 :::
 ::: {.column width="35%"}
 <img src="images/ilustracion-mentoria-reflexion.png" alt="Uma mulher segura um gato em seu escritório">
