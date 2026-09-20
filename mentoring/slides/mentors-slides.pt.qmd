@@ -1,6 +1,6 @@
 ---
-pagetitle: rOpenSci — Orientación y Capacitación para Mentor(a|e)s
-lang: es
+pagetitle: "rOpenSci — Orientação e capacitação para mentoras e mentores"
+lang: pt
 format:
   revealjs:
     css: theme.css
@@ -11,70 +11,53 @@ format:
     embed-resources: true
 ---
 
-::: 
- {.title-slide-eyebrow style="text-align:center; margin-bottom:0;"} 
- 
-*     rOpenSci*  
-**     Programa de Campeões
-**
-****   :::
+::: {.title-slide-eyebrow style="text-align:center; margin-bottom:0;"}
+*rOpenSci*\
+**Programa de Campeãs e Campeões**
+:::
 
-::: 
- {style="text-align:center; margin-top:0.3em;"}
-**     Orientação e Capacitação para Mentores**
+::: {style="text-align:center; margin-top:0.3em;"}
+**Orientação e capacitação para mentoras e mentores**
 
-Moderado por 
- **     Yani Bellini Saibene**
-   :::
+Moderada por **Yani Bellini Saibene**
+:::
 
 <hr>
 
-::: 
- {style="display:flex; align-items:center; gap:1em; margin-top:2em;"}
-   <img src="images/logo-ropensci.png" alt="" style="height:1.6em;">
+::: {style="display:flex; align-items:center; gap:1em; margin-top:2em;"}
+<img src="images/logo-ropensci.png" alt="" style="height:1.6em;">
 
 **Fontes: Mozilla Open Leaders, The Carpentries e Enseñar Tecnología en Comunidad - CC-BY-NC**
-   :::
+:::
 
-::: 
- {.notes}
-   Peça permissão para gravar a reunião
-   :::
+::: {.notes}
+Peça permissão para gravar a reunião
+:::
 
-***
+---
 
-## Reflexão sobre a mentoria 
-   {background-color="#447BCD"}
-   
- 
+## Reflexão sobre a mentoria {background-color="#447BCD"}
 
-:::: 
- {.columns}
-   ::: 
- {.column width="58%"}
-**     Duração:**    ~10 minutos
+:::: {.columns}
+::: {.column width="58%"}
+**Duração:** ~10 minutos
 
 - Pense em uma experiência que você já teve em uma relação de mentoria.
 - Use o documento compartilhado para responder às perguntas que aparecem ao lado do seu nome.
-         :::
-         ::: 
-       {.column width="35%"} 
-        
-     
-
+:::
+::: {.column width="35%"}
 <img src="images/ilustracion-mentoria-reflexion.png" alt="Uma pessoa segura um gato em seu escritório">
 :::
 ::::
 
-::: 
- {.notes}
-   Como foi essa relação? Em que ela te ajudou? O que mudou para você graças a essa relação?
-   O que seu mentor disse ou fez que foi útil para você?
+::: {.notes}
+Como foi essa relação? Em que ela te ajudou? O que mudou para você graças a essa relação?
+O que seu mentor (ou mentora) disse ou fez que foi útil para você?
 O que deu certo/o que foi útil?
-   O que não funcionou?
-   Pense em um problema sobre o qual você gostaria de receber orientação neste momento.
+O que não funcionou?
+Pense em um problema sobre o qual você gostaria de receber orientação neste momento.
+:::
 
-   :::
 
 ## O que os mentores fazem?
 
