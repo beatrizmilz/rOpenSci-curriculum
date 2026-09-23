@@ -130,7 +130,7 @@ As perguntas nos permitem: ajudar a esclarecer a compreensão, fornecer uma estr
 
 :::: {.columns}
 ::: {.column width="44%"}
-<img src="images/ilustracion-feedback-comic.png" alt="Como dar feedback (história em quadrinhos)">
+<img src="images/ilustracion-feedback-comic-pt.png" alt="Como dar feedback (história em quadrinhos)">
 :::
 ::: {.column width="54%"}
 - Tente ser útil
